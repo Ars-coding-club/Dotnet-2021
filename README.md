@@ -3,6 +3,12 @@
 This is a simple pipeline example for a .NET Core application, showing just
 how easy it is to get up and running with .NET development using GitLab.
 
+## Getting started
+
+Work for this project can be done in gitpod.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Ars-coding-club/Dotnet-2021)
+
 # Reference links
 
 - [GitLab CI Documentation](https://docs.gitlab.com/ee/ci/)
